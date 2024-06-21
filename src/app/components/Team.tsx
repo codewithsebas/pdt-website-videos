@@ -10,7 +10,7 @@ const team = [
     {
         id: 1,
         name: 'CARLOS CÁRDENAS',
-        rol: 'Lider en desarrollo',
+        rol: 'Desarrollador Fullstack',
         image: New1,
         url: '/partner/1'
     },
